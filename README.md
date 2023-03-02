@@ -7,4 +7,4 @@
 * Foi realizado no Jupyter Notebook utilizando bibliotecas como Pandas, Numpy, Seaborn, Matplotlib para realização da análise
 * Realizei análises como o comparativo dos preços, maior e menor retorno em um dia, ação com maior volatilidade..
 
-![](https://github.com/ducapelin/Eduardo_Portfolio/blob/main/imagens/comp2.png)
+![img](https://github.com/ducapelin/Eduardo_Portfolio/blob/main/imagens/comp2.png)
